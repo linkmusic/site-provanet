@@ -1,0 +1,79 @@
+{
+  "hero_title": "Prova Net",
+  "hero_tagline": "A sua liberdade começa aqui.",
+  "intro_text": "Navegue sem limites com nossos planos de internet ilimitada, feitos para quem busca velocidade e estabilidade em qualquer lugar. Rápido, seguro e sem complicações!",
+  "footer": {
+    "logo_url": "",
+    "logo_text": "PROVA",
+    "copyright_text": "© 2025 Prova Net - Todos os direitos reservados."
+  },
+  "visibility": {
+    "reseller_section": false,
+    "referral_program": false,
+    "how_it_works_section": true,
+    "free_trial_section": true
+  },
+  "cores": {
+    "primaria": "#0066cc",
+    "primaria_escura": "#004d99",
+    "secundaria": "#e6f2ff"
+  },
+  "links": {
+    "whatsapp": "https://wa.me/5521990681767",
+    "whatsapp_number": "(21) 99068-1767",
+    "telegram": "",
+    "pix_key": "provadigital@gmail.com"
+  },
+  "horario_atendimento": [],
+  "redes_sociais": [
+    {
+      "nome": "WhatsApp",
+      "url": "https://wa.me/5521990681767",
+      "icone": "fab fa-whatsapp"
+    }
+  ],
+  "how_it_works_steps": [
+    {
+      "text": "Escolha seu plano preferido"
+    },
+    {
+      "text": "Faça o pagamento via PIX"
+    },
+    {
+      "text": "Receba as configurações e aproveite!"
+    }
+  ],
+  "free_trial": {
+    "title": "Experimente Grátis",
+    "text": "Oferecemos um teste gratuito para você comprovar a nossa qualidade antes de assinar."
+  },
+  "referral_program": {},
+  "planos_pessoais": [
+    {
+      "nome": "Plano Básico",
+      "preco": 15,
+      "duracao": "Acesso por 30 dias",
+      "popular": false
+    },
+    {
+      "nome": "Plano Intermediário",
+      "preco": 20,
+      "duracao": "Acesso por 30 dias",
+      "popular": true
+    },
+    {
+      "nome": "Plano Avançado",
+      "preco": 25,
+      "duracao": "Acesso por 30 dias",
+      "popular": false
+    },
+    {
+      "nome": "Plano Premium",
+      "preco": 30,
+      "duracao": "Acesso por 30 dias",
+      "popular": false
+    }
+  ],
+  "planos_revenda_mensal": [],
+  "planos_revenda_creditos": []
+}
