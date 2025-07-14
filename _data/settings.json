@@ -4,7 +4,7 @@
   "planos_pessoais": [
     {
       "nome": "Plano Básico",
-      "preco": 15,
+      "preco": 20,
       "duracao": "Acesso por 30 dias",
       "popular": false
     }
