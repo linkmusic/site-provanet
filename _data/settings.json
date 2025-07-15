@@ -4,7 +4,7 @@
   "planos_pessoais": [
     {
       "nome": "Plano Básico",
-      "preco": 15,
+      "preco": 20,
       "duracao": "Acesso por 30 dias",
       "popular": false
     }
@@ -51,7 +51,7 @@
     "whatsapp": "https://wa.me/5521990681767",
     "whatsapp_number": "(21) 99068-1767",
     "telegram": "",
-    "pix_key": "822.332.174-20"
+    "pix_key": "21990681767"
   },
   "footer": {
     "logo_url": "",
